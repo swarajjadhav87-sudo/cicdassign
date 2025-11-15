@@ -1,6 +1,6 @@
-def add (a,b):
-    return a+b
-if name == "__main__":
+def add(a, b):
+    return a + b
 
-    print("App running ..sum = ", add(2,3))
-    
+if __name__ == "__main__":
+    print("App running ..sum = ", add(2, 3))
+
